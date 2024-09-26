@@ -1,4 +1,4 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.2.4
+### %#71CD80%Prison%#% %#A87343%Block%#% %#AA26FB%V1.2.4%#%
 
 -  Added sound when collecting Geode loot from Blacksmith
 -  Fixed Tomb Chamber 2 Mini Boss drop
