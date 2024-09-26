@@ -1,25 +1,10 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.2.3
+### %#71CD80%Prison%#% %#A87343%Block%#% V1.2.4
 
--  Added Leaderboard page to Prison Block Hologram at fountain in %#f0d31a%/spawn%#%
--  Added new Warp Menu for all Fishing Ponds to %#f0d31a%/warp%#%
--  Redesigned the %#f0d31a%/achievements%#% menu
--  **Reward Path adjustments:**
-  -  Increased keys prizes overall
-  -  Redesigned it here and there, plus show the actual item reward
--  **Earning changes:**
-  -  Slightly nerfed fisher earnings again
-  -  Slightly buffed hunter earnings again
--  **Progressing changes:**
-  -  Slightly reduced the milestones for fisher
-  -  Slightly increased the milestones for farmer
--  **Hive adjustments:**
-  -  Added Prize information to hologram
-  -  Increased the Goodie Bag prize
-  -  Increased the damage of mobs in higher difficulties
--  Redid farmer earnings formula including Gilt Farm Booster, Farmer Esteem and Precision Cut
--  Fixed crop saving for large farms
--  Fixed Tomb mobs respawning in the wrong chamber since they went into a different chamber
--  Fixed mine percentage not displaying correctly every now and then
--  Fixed Prison Profile Island Info data show
--  Fixed Miner Job Fortune calculation
--  Fixed interaction on Islands with Potted plants and Candles
+-  Added sound when collecting Geode loot from Blacksmith
+-  Fixed Tomb Chamber 2 Mini Boss drop
+-  Fixed Island Info on different profiles
+-  Fixed Blacksmith Geode opening GUI
+-  Fixed Apple Farmer drop chances (buffed)
+-  Fixed Island loading bug with large data
+-  Fixed Fishing area not allowed teleportation
+-  Fixed PVP on Island while being at the border
