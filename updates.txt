@@ -1,10 +1,17 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.2.4
+### %#71CD80%Prison%#% %#A87343%Block%#% V1.3.3
 
--  Added sound when collecting Geode loot from Blacksmith
--  Fixed Tomb Chamber 2 Mini Boss drop
--  Fixed Island Info on different profiles
--  Fixed Blacksmith Geode opening GUI
--  Fixed Apple Farmer drop chances (buffed)
--  Fixed Island loading bug with large data
--  Fixed Fishing area not allowed teleportation
--  Fixed PVP on Island while being at the border
+-  Fixed Island lightning bug
+-  Fixed old Dynamite throw
+-  Fixed Player Head /preference to also work in /msg
+-  Fixed Oilpump/Sell Block interaction while other player has interaction with the block
+-  Fixed Player Heads and Gifts to properly safe in inventories
+
+### Network Update
+
+-  Upgraded to version `1.20.4`
+-  Improved server resource pack handling
+   -  Added proper kick messages
+   -  Added loading/confirmation message
+   -  Fixed pack not loading again when switching from prison/island servers
+-  Fixed standing up height for /sit
+-  Added date to all sidebars
