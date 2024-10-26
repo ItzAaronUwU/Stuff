@@ -1,17 +1,16 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.3.3
-
--  Fixed Island lightning bug
--  Fixed old Dynamite throw
--  Fixed Player Head /preference to also work in /msg
--  Fixed Oilpump/Sell Block interaction while other player has interaction with the block
--  Fixed Player Heads and Gifts to properly safe in inventories
+### %#71CD80%Prison%#% %#A87343%Block%#% V1.4.0
+-  Added Tool Skins:
+   -  Ham Sword
+   -  Tomb Sword
+   -  Swordfish Rod
+   -  Marshmallow Rod
+   -  Worm Scythe
+   -  Reaper Scythe
+-  Mythical (5 star) skins now all have a fancy gradient name
+-  Fixed auto reloading of bugged Oilpumps and Sellblocks
+-  Fixed not able to plant for very few players
+-  Added option to jar Exotic Shards and Moonstones
+-  Increased job enable button size
 
 ### Network Update
-
--  Upgraded to version %#FFFF00%1.20.4%#%
--  Improved server resource pack handling
-   -  Added proper kick messages
-   -  Added loading/confirmation message
-   -  Fixed pack not loading again when switching from prison/island servers
--  Fixed standing up height for /sit
--  Added date to all sidebars
+-  Fixed invalid signature kick for normal clients
