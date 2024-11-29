@@ -1,16 +1,11 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.4.0
--  Added Tool Skins:
-   -  Ham Sword
-   -  Tomb Sword
-   -  Swordfish Rod
-   -  Marshmallow Rod
-   -  Worm Scythe
-   -  Reaper Scythe
--  Mythical (5 star) skins now all have a fancy gradient name
--  Fixed auto reloading of bugged Oilpumps and Sellblocks
--  Fixed not able to plant for very few players
--  Added option to jar Exotic Shards and Moonstones
--  Increased job enable button size
+### %#71CD80%Prison%#% %#A87343%Block%#% V1.5.2
+-  Added Content Creator features
+    -  Command /contentcreator <name> to view  the creators platforms
+    -  Content Creators now have all premium Rank perks including all pets and particles
+-  Added timer to view the time left while in Gilded Mines
+-  Lowered cooldown on /respec from 48h to 24h
+-  Daily/Weekly/Monthly Reward reminder only show when you unlocked it
 
 ### Network Update
--  Fixed invalid signature kick for normal clients
+-  Fixed chat mentions preference
+-  Some backend fixes to improve performance
