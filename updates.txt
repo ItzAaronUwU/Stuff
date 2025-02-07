@@ -1,11 +1,9 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.5.2
--  Added Content Creator features
-    -  Command /contentcreator <name> to view  the creators platforms
-    -  Content Creators now have all premium Rank perks including all pets and particles
--  Added timer to view the time left while in Gilded Mines
--  Lowered cooldown on /respec from 48h to 24h
--  Daily/Weekly/Monthly Reward reminder only show when you unlocked it
+### %#71CD80%Prison%#% %#A87343%Block%#% V1.5.3
+-  Implemented new tag for content creators
+-  Fixed /respec visual timer
+-  Improved look of Gilded messages and timer 
+
 
 ### Network Update
--  Fixed chat mentions preference
--  Some backend fixes to improve performance
+-  Added 1.21.3 support
+-  Added 1.21.4 support
