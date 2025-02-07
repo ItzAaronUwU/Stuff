@@ -1,14 +1,14 @@
 %#43009e%**POCCITO**%#% %#aaaaaa%• August 5, 2024%#%
 
 
-### Prison Block Release
+## Prison Block Release
 After dedicating 2.5 years to our Minecraft server with a primary focus on the Prison gamemode, we’ve come to realize that traditional Prison gameplay is no longer what players are seeking. Or rather, players are looking for more than just a regular Prison server centered on grinding for money to rank up, where mining millions of blocks is the primary way to victory. While this classic approach can be enjoyable, it can eventually feel repetitive and perhaps too similar to other servers.
 
-## Minecraft's Future
+### Minecraft's Future
 If you’re familiar with the variety of Minecraft servers and gamemodes, you’ve probably noticed the rise in popularity of grind-based modes over the past few years. However, The Universe isn’t The Universe if it isn’t unique. We've never been an average Prison server, and we never will be. It's time for change, time for something new, time for a revamp!
 
-## Prison Block
+### Prison Block
 After months of hard work, we’re proud to present our revamped Prison gamemode: Prison Block. This gamemode retains the essence of Prison but it has that Skyblock vibe. Players can explore a different set of jobs, including mining (obviously), hunting, fishing, and farming.
 
-## Launch
+### Launch
 The launch of Prison Block was an incredible success! Our official trailer reached thousands of people, and on the first day, we saw a peak of 300 players online, enjoying this new and dynamic experience.
