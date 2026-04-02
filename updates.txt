@@ -1,9 +1,9 @@
-### %#71CD80%Prison%#% %#A87343%Block%#% V1.5.3
--  Implemented new tag for content creators
--  Fixed /respec visual timer
--  Improved look of Gilded messages and timer 
+### %#71CD80%Prison%#% %#A87343%Block%#% V2.0.5
+-  Slightly buffed Geode drop rate from Oil Pumps
+-  Fixed being depth 2 when reaching Fisher lvl 25
+-  Bunch of skill message and sound fixes
+-  Fixed Traveller completion message
 
 
 ### Network Update
--  Added 1.21.3 support
--  Added 1.21.4 support
+-  Prevent bedrock players from joining through Minehut
